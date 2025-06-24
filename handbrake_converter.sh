@@ -23,9 +23,9 @@ LOG_FILE="${LOG_DIR}/handbrake_conversion.log"
 
 # Configuración de NTFY para notificaciones.
 # Visita https://ntfy.sh/ para más información.
-NTFY_HOST="ntfy.lalalatv.link"
+NTFY_HOST="tudominio.com"
 NTFY_TOPIC="handbrake_proces" # Reemplaza con tu tópico de NTFY
-NTFY_TOKEN="tk_99lxtk5rllcfwsxpmottnywx0nel5" # ¡Cuidado! Mantén este token privado.
+NTFY_TOKEN="tk_99dlsxetk5grl3l5cfgwfdsxdp46Hmottnywx0nel5" # ¡Cuidado! Mantén este token privado.
 
 # --- Variables internas (no modificar a menos que sepas lo que haces) ---
 CONVERTED_COUNT=0
